@@ -3,7 +3,7 @@ Feature: ATM Withdrawal single scenario
   I should test the ability to withdraw money from ATM
 
   Background: I have positive balance
-    Given I have 100 PLN in my account
+    Given I have 100 PLN in my bank
     And My name is "Beata"
     And I have 1.6 EUR
 
